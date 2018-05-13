@@ -1,5 +1,5 @@
 {
-  "name": "speakjs",
+  "name": "@djbutler/speakjs",
   "version": "1.0.0",
   "description": "A wrapper around the speak.js speech synthesizer, ported from C++ to JS by kripken. ",
   "main": "index.js",
